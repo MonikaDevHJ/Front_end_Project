@@ -1,0 +1,24 @@
+/* *{
+    background-color:rgb(155, 152, 152)
+} */
+
+ /* BcakGround color */
+ .Second div{
+    background-color: aliceblue;
+}
+
+/* Text Color */
+.LOREM h4{
+    color: black;
+}
+.Text-color p div{
+    color: red;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .aboutus h1 div{
+    color: aliceblue;
+  }
